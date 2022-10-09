@@ -18,6 +18,13 @@ h1{
     color: rgb(255, 255, 255);
 }
 
+h2{
+    letter-spacing: 5px;
+    font-size: 13px;
+    text-align: center;
+    font-family:serif;
+    background-color: rgba(95, 158, 160, 0.633);
+    color: rgb(255, 255, 255);}
 .clock{
     display: flex;
 }
