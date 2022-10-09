@@ -5,7 +5,7 @@ body{
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1244&q=80");
+    background: url("https://diez.md/wp-content/uploads/2019/06/media_140128379859740000.jpg");
     background-size: cover;
     overflow: hidden;
 }
@@ -15,6 +15,7 @@ h1{
     letter-spacing: 5px;
     font-size: 19px;
     text-align: center;
+    background-color: rgba(95, 158, 160, 0.633);
     color: rgb(255, 255, 255);
 }
 
